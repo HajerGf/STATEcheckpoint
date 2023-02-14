@@ -23,12 +23,16 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  background-color: rgb(185, 185, 185);
+  background-color: #61dafb;
   border-radius: 20px;
 }
 
 .App-link {
   color: #61dafb;
+}
+img {
+border-radius: 50%;
+width: 200px;
 }
 
 .form {
